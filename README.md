@@ -14,7 +14,7 @@
     <img height= "150" src="https://github-readme-stats.vercel.app/api?username=mikejensen0&theme=github_dark&show_icons=true&include_all_commits=true" />
     <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikejensen0&theme=github_dark&layout=compact" />
 </p>
-
+<!--
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
@@ -37,3 +37,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
 </p>
+-->
